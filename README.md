@@ -10,20 +10,18 @@ A powerful Telegram group member scraper and bulk messenger built with [Telethon
 - Displays basic member info (name, username)
 - Perfect for testing if the tool works on your system
 
-### 💎 Full Version (Paid)
-The **full script** includes **all features**:
-- Unlimited member scraping
-- Multi-account support
-- Proxy (SOCKS5) support
-- Filter members by activity (recent, last week, last month)
-- Save members to CSV & JSON
-- Download group profile picture
-- Download member profile pictures
-- Send automated messages with:
-  - Custom delays and random intervals
-  - Dynamic placeholders (`{first_name}`, `{username}`)
-- Anti-block & FloodWait protection
-- Detailed logging system
+## 💎 Full Version – 19€
+
+Buy the **full version** to unlock:
+- ✅ Unlimited scraping (members & messages)
+- ✅ Download media, files, photos, and videos
+- ✅ Export to CSV & JSON
+- ✅ Add members from one group directly to another
+- ✅ Automated messaging with delays & placeholders
+- ✅ Multi-account & proxy support (SOCKS5/HTTP)
+- ✅ Task scheduling (Cron)
+- ✅ Filter by activity (online, recently, etc.)
+- ✅ Priority support + lifetime updates
 
 📩 **Contact to purchase the full version:**
 - **Email:** powtv@proton.me  
