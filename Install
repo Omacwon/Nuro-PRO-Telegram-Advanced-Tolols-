@@ -1,0 +1,34 @@
+# 🛠️ How to Install & Test Nuro TG Tools
+
+This guide helps you set up the **test version** of Nuro TG Tools on your Windows, macOS, or Linux PC.
+
+> ⚠️ This is a **limited demo version** – only for testing.
+> 
+> 💎 To unlock **all features** (media download, auto-invite, proxies, CSV export, etc.),  
+> **Buy the full version for 19€** → Contact [@EasyStrmx](https://t.me/EasyStrmx)
+
+---
+
+## ✅ Requirements
+
+Before starting, make sure you have:
+
+- 💻 A PC (Windows, macOS, or Linux)
+- 🐍 Python 3.8 or higher
+- 🔌 Internet connection
+- 📱 A Telegram account with active 2FA (optional)
+
+---
+
+## 📦 Step 1: Install Python
+
+If you don’t have Python, download it here:  
+👉 https://www.python.org/downloads/
+
+> ✅ Check "Add Python to PATH" during installation!
+
+Verify installation:
+```bash
+python --version
+# or
+python3 --version
