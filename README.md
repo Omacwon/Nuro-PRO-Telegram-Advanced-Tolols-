@@ -35,7 +35,7 @@ The **full script** includes **all features**:
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/Omacwon/Nuro-PRO-Telegram-Advanced-Tolols-.git
+[git clone https://github.com/Omacwon/Nuro-PRO-Telegram-Advanced-Tolols-.git](https://github.com/Omacwon/Nuro-PRO-Telegram-Advanced-Tools.git)
 cd telegram-group-scraper
 
 Install dependencies
