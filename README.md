@@ -37,3 +37,51 @@ The **full script** includes **all features**:
 ```bash
 git clone https://github.com/Omacwon/Nuro-PRO-Telegram-Advanced-Tolols-.git
 cd telegram-group-scraper
+
+Install dependencies
+
+pip install -r requirements.txt
+
+🖥 Usage
+Free Version:
+python scraper_free.py
+
+
+You will be prompted for:
+
+API_ID
+
+API_HASH
+
+Phone number
+
+Group name or @username
+
+The script will display only the first 5 members.
+
+Full Version:
+python scraper_full.py
+
+
+⚠️ Not included in the public repository.
+Contact the author to get the full, unlimited script with all premium features.
+
+📌 API Setup (Required for Both Versions)
+
+Go to my.telegram.org
+
+Log in with your phone number
+
+Click API Development Tools
+
+Create a new application
+
+Copy your API_ID and API_HASH — you'll need them to run the script
+
+⚠️ Disclaimer
+
+This tool is for educational and research purposes only.
+You are fully responsible for your own usage.
+Respect Telegram's Terms of Service and all applicable laws.
+
+© 2025 — Developed by EasyStrmx
