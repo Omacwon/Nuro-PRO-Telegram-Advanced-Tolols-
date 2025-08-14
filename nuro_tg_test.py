@@ -35,17 +35,29 @@ def banner():
     print(Style.BRIGHT + "-" * 60 + Style.RESET_ALL)
 
 def show_upgrade_prompt():
-    print("\n" + Fore.RED + "❌ This feature is not available in the free version." + Style.RESET_ALL)
-    print(Fore.YELLOW + f"💎 Unlock ALL features for only {CONTACT['price']}!" + Style.RESET_ALL)
-    print(Fore.WHITE + "📲 Contact me to buy the full version:")
+    print("\n" + Fore.RED + "❌ This is a limited demo version." + Style.RESET_ALL)
+    print(Fore.YELLOW + f"💎 Unlock the FULL VERSION for only {CONTACT['price']}!" + Style.RESET_ALL)
+    print(Fore.WHITE + "📲 Contact me now to get the complete tool:")
     print(Fore.CYAN + f"   • Telegram : {CONTACT['telegram']}")
     print(Fore.CYAN + f"   • Email    : {CONTACT['email']}")
-    print(Fore.GREEN + "✅ Full features include:")
-    print(Fore.WHITE + "   • Unlimited member & message scraping")
-    print(Fore.WHITE + "   • Multi-account & proxy support (SOCKS5/HTTP)")
-    print(Fore.WHITE + "   • Automated messaging with custom delays")
-    print(Fore.WHITE + "   • CSV/JSON exports, Cron jobs, filters, and more")
-    print(Fore.MAGENTA + "🎁 Priority support + free updates!\n" + Style.RESET_ALL)
+    
+    print(Fore.GREEN + "\n✅ FULL FEATURES INCLUDED:" + Style.RESET_ALL)
+    print(Fore.WHITE + "   • 📥 Download messages, media, photos, videos & files")
+    print(Fore.WHITE + "   • 📂 Export data to CSV & JSON (members, messages, groups)")
+    print(Fore.WHITE + "   • 🔄 Add members from one group directly to another (auto-invite)")
+    print(Fore.WHITE + "   • 🤖 Send automated messages with custom delays & random intervals")
+    print(Fore.WHITE + "   • 📅 Schedule tasks (Cron jobs) – auto-scrape daily")
+    print(Fore.WHITE + "   • 🔁 Multi-session support – manage multiple accounts at once")
+    print(Fore.WHITE + "   • 🌐 Proxy support (SOCKS5/HTTP) – avoid bans & IP blocks")
+    print(Fore.WHITE + "   • 🎯 Filter members by activity: online, recently, last week, last month")
+    print(Fore.WHITE + "   • 🛡️ Anti-flood & retry system – handles FloodWait & CAPTCHA errors")
+    print(Fore.WHITE + "   • 📊 Group analytics: member count, message stats, growth tracking")
+    print(Fore.WHITE + "   • 🔗 Join private invite links automatically")
+    print(Fore.WHITE + "   • 💬 Use dynamic placeholders: {first_name}, {username}, etc.")
+    print(Fore.WHITE + "   • 📁 Organized local storage: sessions, logs, media, exports")
+
+    print(Fore.MAGENTA + "\n🎁 BONUS: Priority support + lifetime updates!" + Style.RESET_ALL)
+    print(Fore.YELLOW + "👉 Send 'BUY' to @EasyStrmx and get your secured .exe within minutes!" + Style.RESET_ALL)
 
 async def test_connection():
     print(Fore.YELLOW + "\n🔧 Telegram Connection Test" + Style.RESET_ALL)
